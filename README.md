@@ -1,2 +1,2 @@
 # GirlsCoding
-   To understand Git and Githut more
+   To understand Git and Github more
